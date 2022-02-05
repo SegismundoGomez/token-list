@@ -100742,7 +100742,21 @@
         "twitter": "https://twitter.com/aos_NFT",
         "website": "https://apeson.space"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3GRD7B2Ad2mYRji1EyTj67FisPfA17cS72RhsRP2Kw9z",
+      "symbol": "WAGE",
+      "name": "Wager Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/theNetworkChuck/crypto/main/logo.png",
+      "tags": [
+        "utility-token",
+        "gaming-token",
+        "gambling-token"
+      ]
     }
+     
   ],
   "version": {
     "major": 0,
